@@ -1,1 +1,1 @@
-{"acl":{"read":"authenticated","write":"authenticated","execute":"authenticated"},"contentType":"text\/html"}
+{"contentType":"text/html","acl":"read":"sarine","write":"anonymous","execute":"authenticated"
