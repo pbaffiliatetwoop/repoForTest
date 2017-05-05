@@ -1,0 +1,14 @@
+
+
+{  
+   "ACL":{  
+      "execute":"authenticated",
+      "read":"authenticated",
+      "write":"authenticated"
+   },
+   "contentType":"application/script",
+   "content":"return 'Hello world';"
+}
+
+
+
