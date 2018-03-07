@@ -1,0 +1,1 @@
+{ "ACL":{ "execute":"authenticated", "read":"authenticated", "write":"authenticated" },"contentType":"text/html", "content":"return 'Hello world';"}
