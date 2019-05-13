@@ -1,1 +1,0 @@
-systemLogger.setLevel("off"); return "temple of the king";
